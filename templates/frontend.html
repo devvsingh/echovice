@@ -548,7 +548,7 @@
     showTypingAnimation();
 
     try {
-      const res = await fetch('http://127.0.0.1:5000/debate', {
+      const res = await fetch('/debate', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -600,4 +600,5 @@
 </script>
 
 </body>
+
 </html>
