@@ -24,9 +24,9 @@ Built with **Flask (Python)** for the backend and a **simple HTML/CSS/JS fronten
 ---
 
 ## 📂 Project Structure
-- app.py (Backend using Flask)
-- requirements.txt 
-- templates/frontend.html (Frontend containing html,css,js)
+- **app.py** (Backend using Flask)
+- **requirements.txt** 
+- **templates/frontend.html** (Frontend containing html,css,js)
 
 ## ⚡ Installation & Setup
 
