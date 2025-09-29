@@ -32,8 +32,8 @@ Built with **Flask (Python)** for the backend and a **simple HTML/CSS/JS fronten
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/debate-chatbot.git
-cd debate-chatbot
+git clone https://github.com/devvsingh/echovice-debate-chatbot.git
+cd echovice-debate-chatbot
 ```
 ### 2️⃣ Install Dependencies
 ```
